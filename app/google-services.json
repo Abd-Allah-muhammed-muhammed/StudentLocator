@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "725676819182",
+    "firebase_url": "https://student-locator-23772.firebaseio.com",
+    "project_id": "student-locator-23772",
+    "storage_bucket": "student-locator-23772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725676819182:android:ba6c5702599b8eec",
+        "android_client_info": {
+          "package_name": "com.example.studentlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725676819182-47phm507tccd5ag4u3sjebqnjpq5058m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentlocator",
+            "certificate_hash": "29e83652b7a0aaa84c8961be5edda63d35bf2236"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4ILaYVacFl7vSPp9bMcHekZ47DYhaGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725676819182-mh7uuamb2g021l2a9urauvbsil6u4dum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
